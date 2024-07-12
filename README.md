@@ -5,22 +5,22 @@ Project completed on May 16, 2024.
 Using Reaction Time Survey dataset conduct a rigorous regression modeling and analysis to estimate student reaction times. The project outline is as follows (more details in `project_report.pdf`):
 
 1. Abstract
-2. Exploratory Data Analysis (EDA)
-  2.1. Data Understanding
-  2.2. Data Insights
+2. Exploratory Data Analysis (EDA) \
+  2.1. Data Understanding \
+  2.2. Data Insights \
   2.3. Data Pre-processing
-3. Model Building
-  3.1. Variable Selection and Model Fitting
-  3.2. Diagnostics and Remedies
-        a) Unusual observations
-        b) Error assumptions
+3. Model Building \
+  3.1. Variable Selection and Model Fitting \
+  3.2. Diagnostics and Remedies \
+        a) Unusual observations \
+        b) Error assumptions \ 
         c) Structure assumptions
-4. Model Comparison and Selection
-  4.1. A model with an interaction term
-  4.2. LASSO Regression
-5. Discussion of Results and Conclusion
-  5.1. Summary
-  5.2. Challenges and Next Steps
+4. Model Comparison and Selection \
+  4.1. A model with an interaction term \
+  4.2. LASSO Regression \
+5. Discussion of Results and Conclusion \
+  5.1. Summary \
+  5.2. Challenges and Next Steps \
   5.3. Reflection on Lessons Learned
 
 ## Regression Analysis tools used in this project
