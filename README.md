@@ -12,9 +12,9 @@ Using Reaction Time Survey dataset conduct a rigorous regression modeling and an
 3. Model Building 
   3.1. Variable Selection and Model Fitting \
   3.2. Diagnostics and Remedies \
-     a) Unusual observations \
-     b) Error assumptions \
-     c) Structure assumptions 
+       a) Unusual observations \
+       b) Error assumptions \
+       c) Structure assumptions 
 5. Model Comparison and Selection \
   4.1. A model with an interaction term \
   4.2. LASSO Regression 
