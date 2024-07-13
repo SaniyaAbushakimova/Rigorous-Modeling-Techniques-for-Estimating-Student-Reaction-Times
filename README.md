@@ -1,5 +1,5 @@
 Project completed on May 16, 2024.
-
+ 
 ## Project description
 
 Using Reaction Time Survey dataset conduct a rigorous regression modeling and analysis to estimate student reaction times. The project outline is as follows (more details in `project_report.pdf`):
