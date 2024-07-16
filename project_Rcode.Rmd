@@ -1,7 +1,6 @@
 ---
 title: "Final_Project"
-author: "Kshitiz Singh and Saniya Abushakimova"
-date: "2024-05-01"
+author: "Saniya Abushakimova"
 output: html_document
 ---
 
