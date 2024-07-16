@@ -9,7 +9,7 @@ Using Reaction Time Survey dataset conduct a rigorous regression modeling and an
   2.1. Data Understanding \
   2.2. Data Insights \
   2.3. Data Pre-processing 
-3. Model Building 
+3. Model Building \
   3.1. Variable Selection and Model Fitting \
   3.2. Diagnostics and Remedies \
        a) Unusual observations \
